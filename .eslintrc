@@ -8,7 +8,9 @@
     "rules": {
         "indent": ["error", 4],
         "object-curly-spacing": [2, "always"],
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "operator-linebreak": "off"
+        // "no-tabs": "off"
     },
     "extends": ["eslint:recommended", "google"]
 }
